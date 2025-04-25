@@ -77,10 +77,14 @@ python main.py --mode inference \
 
 Output will be saved as result.png in the current directory.
 
+---
+
 ## 🖼️ Result
 Example output:
 
-<img src="./result.png" alt="Super-resolved output" width="400" />
+<img src=".Results/comic.png" alt="Super-resolved output" width="400" />
+
+---
 
 ## 📚 Notes
 - This project is implemented for educational and research purposes.
@@ -90,6 +94,8 @@ Example output:
 
 👉 Contact me to get pretrained weights.
 
+---
+
 ## 🤝 Contributing
 Pull requests are welcome! If you want to contribute:
 
@@ -98,6 +104,8 @@ Pull requests are welcome! If you want to contribute:
 2. Create a new branch
 
 3. Submit a PR or open an issue
+
+---
 
 ## 📬 Contact
 If you have questions or need checkpoint files, feel free to contact me.
