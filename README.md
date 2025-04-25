@@ -82,7 +82,7 @@ Output will be saved as result.png in the current directory.
 ## 🖼️ Result
 Example output:
 
-<img src=".Results/comic.png" alt="Super-resolved output" width="400" />
+<img src="./Results/comic.png" alt="Super-resolved output" width="400" />
 
 ---
 
